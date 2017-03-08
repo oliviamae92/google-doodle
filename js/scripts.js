@@ -1,8 +1,8 @@
 // Store 3 images
-var img0 = '../img/PokeBall.png';
-var img1 = '../img/GreatBaLL.png';
-var img2 = '../img/UltraBall.png';
-var img3 = '../img/MasterBall.png';
+var img0 = 'https://raw.githubusercontent.com/oliviamae92/google-doodle/master/img/MasterBall.png';
+var img1 = 'https://raw.githubusercontent.com/oliviamae92/google-doodle/master/img/GreatBall.png';
+var img2 = 'https://raw.githubusercontent.com/oliviamae92/google-doodle/master/img/Pokeball.png';
+var img3 = 'https://raw.githubusercontent.com/oliviamae92/google-doodle/master/img/UltraBall.png';
 // Get random number
 var max = 3;
 var numRand = Math.floor(Math.random() * max);
